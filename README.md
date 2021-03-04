@@ -2,7 +2,7 @@
 
 ![logo](Image/logo.PNG)
 
-####'Digital money for the modern world'
+**Digital money for the modern world**
 
 Contributors: Alpa Sheladia, Aaron Galloway, Nathan Bratz, and Robert Leonhardt
 
