@@ -11,6 +11,7 @@ Contributors: Alpa Sheladia, Aaron Galloway, Nathan Bratz, and Robert Leonhardt
 In this project, our team will create an account on out HTML page, request a public key for block chain ledger, request a service/product, provide a service/product, pay with Nano, and will receive Nano as a payment.
 
 ### **What is Nano?**
+![nano-cryptocurrency](Image/nano-cryptocurrency.png)
 • Originally RaiBlocks, Nano is a trustless, fee-less, low latency
 cryptocurrency that utilizes a novel block-lattice structure. Block-lattice is a
 data-structure in which individual accounts control their own blockchain.
