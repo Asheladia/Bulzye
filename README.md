@@ -1,6 +1,6 @@
 # Bulzye
 
-![logo](Image/logo.png)
+![logo](Image/logo.PNG)
 
 
 
