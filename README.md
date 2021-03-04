@@ -1,10 +1,6 @@
 # Bulzye
 
 ![logo](Image/logo.PNG)
-<<<<<<< HEAD
-=======
-
->>>>>>> 5a895f4b167021eafb729c2fc13bc0ca8112f147
 
 ####'Digital money for the modern world'
 
